@@ -3,7 +3,7 @@
 ## Overview
 
 A small Expo (React Native) app for the
-[graphrt `examples/supabase-chatbot`](https://github.com/BimaPangestu28/graphrt/tree/main/examples/supabase-chatbot)
+[graphrt `examples/supabase-chatbot`](https://github.com/Graphrt/graphrt/tree/main/examples/supabase-chatbot)
 backend. Users sign in with Supabase Auth; each message goes straight to
 `graphrt serve` with the user's Supabase access token, and the answer streams
 back over SSE token by token. Conversations are stored in Supabase
