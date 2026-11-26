@@ -3,7 +3,7 @@
 ## Overview
 
 A small Flutter app for the **supabase-chatbot** example: users sign in with
-Supabase Auth and chat with an agent served by [`graphrt serve`](https://github.com/BimaPangestu28/graphrt).
+Supabase Auth and chat with an agent served by [`graphrt serve`](https://github.com/Graphrt/graphrt).
 The agent reads the user's own data through Supabase RPCs, called with the
 user's JWT, so row level security decides what it can see.
 
